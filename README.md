@@ -1,5 +1,7 @@
 # MTG Playtest Generator (Web App)
 
+Live page: https://suppennudel.github.io/mtg-playtest-generator/
+
 A small browser-based tool to generate printable Magic: The Gathering playtest sheets.
 
 ## What it does
